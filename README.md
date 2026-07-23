@@ -21,10 +21,10 @@ copperPrices.txt
 goldPrices.txt
 
 ## How to Run
-Running the program will print three futures contracts without any further input from the user. These contracts will their volatility calculated from historic price data read from the text files. The price data and all other values are purely arbitrary and are not intended to represent any real market conditions. The included price data can be replaced by changing or replacing the included files with ones of the same name and format. No blank lines, text, commas, or other symbols should be included in these files so they are read correctly.
+Running the program will print three futures contracts without any further input from the user. These contracts will their volatility calculated from historic price data read from the text files. The price data and all other values are purely arbitrary and are not intended to represent any real market conditions, this project merely serves to demonstrate the potential for such calculations with better data and predictive models. The included price data can be replaced by changing or replacing the included files with ones of the same name and format. No blank lines, text, commas, or other symbols should be included in these files so they are read correctly.
 
 ## OnlineGDB Link
 [https://www.onlinegdb.com/s/as/390019](url)
 
 ## GitHub Repository Link
-Paste your GitHub repository link here.
+[https://github.com/tcinque-source/java-week8-futures-volatility/blob/main/README.md](url)
