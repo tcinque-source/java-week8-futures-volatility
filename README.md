@@ -28,3 +28,6 @@ Running the program will print three futures contracts without any further input
 
 ## GitHub Repository Link
 [https://github.com/tcinque-source/java-week8-futures-volatility/blob/main/README.md](url)
+
+## AI Assistance Statement
+Google Gemini was used to indentify the cause of some compiling errors and of an unexpected exception that arose during testing.
